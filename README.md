@@ -1,6 +1,6 @@
 # Rockbuster-Stealth-Data-Analysis
 
-This repository includes SQL queries which Rockbuster used to create a strategy for launching their new online video streaming service.
+This repository includes SQL queries that Rockbuster used to create a strategy for launching their new online video streaming service.
 
 Rockbuster Stealth LLC is a fictional movie rental company that used to have stores around the world.
 
